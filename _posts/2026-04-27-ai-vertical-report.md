@@ -37,14 +37,13 @@ tags:
 ## 二、热点新闻
 
 ### 海外爆款
-- **Claude 4** - Anthropic最新模型，编程能力超GP-4
+- **Claude 4** - Anthropic最新模型，编程能力超GPT-4
 - **GPT-4o** - OpenAI原生多模态，实时语音对话
 - **Perplexity** - AI搜索估值超50亿
 
 ### 融资动态
 - **Anthropic** - 融资40亿，估值超200亿
-- **xAI** - Grok开源，挑战ChatGPT
-- **Mistral** - 法国AI新星，马斯克参投
+- **Mistral** - 法国AI新星
 
 ---
 
@@ -55,10 +54,62 @@ tags:
 | 字节跳动 | 豆包 | 用户超1亿 |
 | 月之暗面 | Kimi | 长文本200万字 |
 | 智谱AI | GLM-4 | 对标GPT-4 |
-| MiniMax | MoE | 文本能力领先 |
-| 阶跃星辰 | Step | 多模态突破 |
+| MiniMax | MoE | 文本领先 |
+| 阶跃星辰 | Step | 多模态 |
 
-> 趋势：国内大模型竞争加剧，商业化提速
+---
+
+## 四、ToC爆火应用
+
+### 海外
+- **ChatGPT** - 用户超2亿，最强AI聊天
+- **Claude** - 编程神器，推理能力强
+- **Perplexity** - AI搜索新范式
+- **Midjourney** - AI生图顶流
+- **ElevenLabs** - AI语音合成
+
+### 国内
+- **豆包** - 字节AI，工具免费
+- **Kimi** - 长文本分析
+- **通义千问** - 阿里AI
+- **文心一言** - 百度AI
+- **讯飞星火** - 科大讯飞
+
+---
+
+## 五、ToB爆火案例
+
+### 海外
+- **GitHub Copilot** - 企业代码助手
+- **Microsoft Copilot** - 办公AI助手
+- **Salesforce Einstein** - CRM AI
+- **Palantir** - 数据分析平台
+
+### 国内
+- **钉钉AI** - 办公协作
+- **飞书AI** - 文档助手
+- **WPS AI** - 文字处理
+- **华为盘古** - 行业大模型
+
+---
+
+## 六、开源高关注项目
+
+### GitHub
+| 项目 | ⭐ | 描述 |
+|:---|---:|:---|
+| llm-export | 68k | 模型格式转换 |
+|awesome-ai-agents| 52k | AI Agents合集 |
+|chatgpt-retrieval-plugin| 45k | ChatGPT插件|
+|vllm| 44k | 高效推理 |
+|ollama| 43k | 本地运行LLM|
+
+### Gitee
+| 项目 | ⭐ | 描述 |
+|:---|---:|:---|
+| uni-app | 109k | 跨端框架 |
+| spring-boot | 71k | Java框架 |
+| ruoyi-vue-pro | 29k | 管理系统 |
 
 ---
 
