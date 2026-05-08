@@ -6,14 +6,14 @@ tags: [安全, 网络安全, 行业, 日报]
 description: 每日安全行业热点聚合
 ---
 
-########## 安全日报 2026-05-08
+## 安全日报 2026-05-08
 
 > 🔥 今日封面：国家级黑客组织持续数周利用Palo Alto PAN-OS 0Day漏洞
 > 📊 分类统计：AI安全(15) | 数据安全(15) | 工控安全(1) | 传统安全(9)
 
 ---
 
-######### 🔐 AI安全
+### 🔐 AI安全
 
 **[国家级黑客组织持续数周利用Palo Alto PAN-OS 0Day漏洞](https://www.freebuf.com/articles/es/480218.html)**
 > 国家级黑客利用Palo Alto零日漏洞长期潜伏，部署隧道工具窃取凭证！
@@ -77,7 +77,7 @@ description: 每日安全行业热点聚合
 
 ---
 
-######### 💾 数据安全
+### 💾 数据安全
 
 **[Ollama漏洞暴露AI框架无限制访问风险：30万台服务器面临敏感数据泄露威胁](https://www.freebuf.com/articles/ai-security/480220.html)**
 > Ollama漏洞致30万服务器敏感数据泄露，AI框架无限制访问风险加剧！
@@ -143,7 +143,7 @@ description: 每日安全行业热点聚合
 
 ---
 
-######### ⚙️ 工控安全
+### ⚙️ 工控安全
 
 **[纵横网络靶场社区正式发布 以虚实融合技术构建工业信息安全实战生态]()**
 > 当前，工业互联网深度融合发展，关键信息基础设施安全防护需求持续攀升，实战型工业信息安全人才短缺、训练场景稀缺、理论与实践脱节等制约行业发展的核心痛点日益凸显。在此背景下，烽台科技打造的聚焦工业信息安全人才培养与生态共建的纵横网络靶场社区正式发布。该平台依托烽台科技十余年工业靶场技术沉淀，以“虚实融合”技术为核心，整合AI智能体、数字孪生等前沿能力，旨在打造工业安全领域“理论+实战+生态”三位一体的
@@ -151,7 +151,7 @@ description: 每日安全行业热点聚合
 
 ---
 
-######### 🛡️ 传统安全
+### 🛡️ 传统安全
 
 **[Student Loan Breach Exposes 2.5M Records](https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/)**
 > 2.5 million people were affected, in a breach that could spell more trouble down the line.
