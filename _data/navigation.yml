@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "🏠 首页"
+    url: /
+  - title: "🤖 AI新闻日更"
+    url: /categories/AI%E6%96%B0%E9%97%BB%E6%97%A5%E6%9B%B4/
+  - title: "🔒 安全日报"
+    url: /categories/%E5%AE%89%E5%85%A8/
+  - title: "📅 全部文章"
+    url: /posts/
