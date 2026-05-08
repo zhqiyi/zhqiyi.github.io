@@ -3,8 +3,8 @@ main:
   - title: "🏠 首页"
     url: /
   - title: "🤖 AI新闻日更"
-    url: /categories/AI%E6%96%B0%E9%97%BB%E6%97%A5%E6%9B%B4/
+    url: /categories/ai-news/
   - title: "🔒 安全日报"
-    url: /categories/%E5%AE%89%E5%85%A8/
+    url: /categories/security/
   - title: "📅 全部文章"
     url: /posts/
