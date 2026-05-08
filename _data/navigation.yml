@@ -6,5 +6,3 @@ main:
     url: /categories/ai-news/
   - title: "🔒 安全日报"
     url: /categories/security/
-  - title: "📅 全部文章"
-    url: /posts/
