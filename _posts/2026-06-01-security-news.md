@@ -1,25 +1,34 @@
 ---
-title: "安全日报 2026-05-31"
-date: 2026-05-31 07:30:00 +0800
+title: "安全日报 2026-06-01"
+date: 2026-06-01 07:30:00 +0800
 categories: 安全
 tags: [安全, 网络安全, 行业, 日报]
 description: 每日安全行业热点聚合
 ---
 
-## 安全日报 2026-05-31
+## 安全日报 2026-06-01
 
-> 🔥 今日封面：渗透测试集群 AI 工具：实时调用 nmap、sqlmap、Burp 和 Metasploit 等工具
-> 📊 分类统计：AI安全(15) | 数据安全(9) | 工控安全(4) | 传统安全(10) | 总计 38 条
+> 🔥 今日封面：虚假Anthropic网站向Claude Code用户投递无文件窃密程序
+> 📊 分类统计：AI安全(15) | 数据安全(10) | 工控安全(4) | 传统安全(10) | 总计 39 条
 
 ---
 
 ### 🔐 AI安全
+
+- **[虚假Anthropic网站向Claude Code用户投递无文件窃密程序](https://www.freebuf.com/articles/ai-security/483801.html)**
+  - 虚假Claude网站投递无文件窃密程序，攻击AI开发者！
+
+- **[GitLab紧急修复社区版和企业版中的Duo AI、DoS及权限漏洞](https://www.freebuf.com/articles/ai-security/483799.html)**
+  - GitLab紧急修复高危AI漏洞，攻击者可劫持用户权限！
 
 - **[渗透测试集群 AI 工具：实时调用 nmap、sqlmap、Burp 和 Metasploit 等工具](https://www.freebuf.com/articles/ai-security/483775.html)**
   - 首个集群智能渗透测试平台，实时联动nmap、sqlmap等工具，颠覆传统多Agent模式！
 
 - **[黑客用AI Agent仅两分钟便攻破数据库；黑客借虚假ChatGPT和Claude安装程序传播后门 \| FreeBuf周报](https://www.freebuf.com/articles/483702.html)**
   - 各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！
+
+- **[把 20 个顶级安全情报平台塞进 Claude？这个 MCP Server 做到了](https://www.freebuf.com/articles/483729.html)**
+  - 开源项目 cve-mcp-server 将 27 个安全情报工具集成到 AI 对话窗口，大幅提升安全研究效率。
 
 - **[黑客利用LLM Agent通过四次横向移动从Marimo RCE攻入内部数据库](https://www.freebuf.com/articles/ai-security/483533.html)**
   - 黑客用AI Agent两分钟攻破数据库，传统防御失效！
@@ -29,12 +38,6 @@ description: 每日安全行业热点聚合
 
 - **[2026年AI指数报告（二）](https://www.freebuf.com/news/483022.html)**
   - 1.5.开源AI软件前文重点介绍了值得关注的前沿模型以及构建和维护这些模型所需的基础设施。GitHub和Hugging Face等开源平台则提供了不同的视角，展现了开发者生态系统中AI模型的实验和构建
-
-- **[漏洞利用工业化对防御者意味着什么](https://www.freebuf.com/articles/ai-security/483437.html)**
-  - AI驱动漏洞利用工业化，防御者需重构架构应对机器级攻击。
-
-- **[Anthropic 为 Claude Code 推出安全插件与性能升级](https://www.freebuf.com/articles/ai-security/483395.html)**
-  - Anthropic升级Claude Code：新增实时漏洞检测插件，AI编程安全左移！
 
 - **[「以图鉴势」嘶吼2026网络安全产业图谱重磅发布]()**
   - 2026年3月，嘶吼安全产业研究院正式启动“2026网络安全产业图谱”调研工作，旨在全景呈现中国网络安全产业的发展格局，为政企客户的采购决策提供选品指南，为安全厂商的市场拓展提供方向参考。历时数月，调研团队累计回收有效问卷400余份，经过严格的筛选核实与系统分析，今日正式发布调研结果。这400余家企业构成了中国网络安全产业最具代表性的核心梯队，他们的生存状态、创新实践与战略选择，正是我们观察产业格
@@ -57,15 +60,15 @@ description: 每日安全行业热点聚合
 - **[“影子AI”危机？绿盟威胁情报“三把锁”，构筑OpenClaw防御体系]()**
   - 2026年，AI智能体被广泛应用，OpenClaw（俗称“龙虾”）凭借其自主决策与本地执行能力，成为企业与开发者的高频提效工具。然而，近期多家权威安全机构接连发布预警：OpenClaw正面临从供应链投毒到远程控制的多维安全威胁。当内部员工私自部署此类“影子AI”资产，加之部分恶意Skills（插件）存在越权窃取核心数据的行为，传统边界安全防线正面临失效风险。针对这一现状，绿盟科技结合近期实战攻防与
 
-- **[一只AI“龙虾”的冰火一周：从全网追捧到紧急卸载——OpenClaw爆火背后的三大智能体安全风险与应对]()**
-  - 一场轰轰烈烈的“养虾运动”，从全网追捧到紧急卸载，只持续了短短一周。二手平台已经出现另一种服务：远程卸载OpenClaw。价格从499元安装到299元卸载[1]，一条“装虾—教虾—卸虾”的产业链迅速形成。第一批“养虾人”的翻车经历[2]也不断出现：·有人授权OpenClaw访问邮箱，结果邮件被批量删除；·有人让AI清理磁盘，结果整个目录被误删；·还有用户因为API Key泄露，一夜之间损失数万美元
-
 ---
 
 ### 💾 数据安全
 
 - **[GDPR 为监管行动定调：AI 罚款争议初现端倪](https://www.freebuf.com/articles/database/483658.html)**
   - GDPR罚款40%被挑战，AI监管或重蹈覆辙！
+
+- **[如果我是数据安全检查官……](https://www.freebuf.com/articles/database/483695.html)**
+  - 全面解析数据安全检查的核心要点，从管理制度到技术防御，确保企业数据安全无死角。
 
 - **[公安部通报37款违规应用，电商类占比超七成，小程序不再是 “法外之地”]()**
   - 依据《网络安全法》《个人信息保护法》等法律法规，经公安部计算机信息系统安全产品质量监督检验中心检测，37款移动应用存在违法违规收集使用个人信息情况，具体通报如下：1、未公开收集使用规则。涉及21款移动应用如下：《奇峰商城》（支付宝小程序）、《聚优商城》（微信小程序）、《亿秀分期商城》（支付宝小程序）、《鲜范商城》（微信小程序）、《京机数码手机商城》（支付宝小程序）、《创维官方商城》（支付宝小程序）
@@ -117,8 +120,14 @@ description: 每日安全行业热点聚合
 - **[Eyoucms v1.7.9-1.7.1前台模板渲染rce](https://www.freebuf.com/articles/vuls/483023.html)**
   - 通过源码发现viewfiles是可控的，通过设置自己的文件进行渲染包含来执行任意代码，实现rce。
 
+- **[【PoC 已公开】Linux Kernel CIFSwitch 提权漏洞，本地用户可直取 root](https://www.freebuf.com/articles/system/483611.html)**
+  - Linux Kernel CIFSwitch漏洞允许本地用户提权至root，影响广泛，建议立即修复。
+
 - **[发现 Lazarus 组织的纯内存攻击工具集](https://www.freebuf.com/articles/483648.html)**
   - 朝鲜黑客组织Lazarus升级纯内存攻击工具，金融机构面临无文件攻击威胁！
+
+- **[小白的提权日记3](https://www.freebuf.com/articles/system/483461.html)**
+  - 本文以经典 VulnHub 靶场为实战载体，围绕NFS 安全利用、Cron 计划任务提权、PATH 环境变量提权三大典型场景，完整复现信息收集、漏洞利用、Shell 获取、权限提升的全流程操作。
 
 - **[记一次攻防演练中的若依getshell](https://www.freebuf.com/articles/web/483551.html)**
   - 攻防演练中利用若依系统弱口令和Thymeleaf模板注入漏洞成功getshell，详细分析漏洞原理和利用过程。
@@ -134,11 +143,5 @@ description: 每日安全行业热点聚合
 
 - **[免杀基础篇3：一文讲透免杀混淆技术](https://www.freebuf.com/articles/endpoint/483396.html)**
   - 今天这篇，我们把混淆技术从头到尾梳理一遍——从文件落地到内存执行，每一步怎么藏。
-
-- **[Showboat Linux 恶意软件：电信行业面临的新型战略威胁](https://www.freebuf.com/articles/ics-articles/483408.html)**
-  - 隐蔽Linux间谍工具Showboat瞄准电信业，模块化后门威胁关键基础设施！
-
-- **[攻击者利用 FortiClient 代码执行漏洞部署 EKZ 窃密木马](https://www.freebuf.com/articles/endpoint/483394.html)**
-  - 攻击者利用FortiClient漏洞窃取企业凭证，可绕过MFA劫持账户！
 
 *每日自动更新 · 来源: FreeBuf · 嘶吼 · 安全脉搏 · CISA · Dark Reading · Threatpost · Wired · CyberScoop · Cyble · KrebsOnSecurity*
