@@ -8,36 +8,39 @@ description: 每日安全行业热点聚合
 
 ## 安全日报 2026-06-01
 
-> 🔥 今日封面：虚假Anthropic网站向Claude Code用户投递无文件窃密程序
-> 📊 分类统计：AI安全(15) | 数据安全(10) | 工控安全(4) | 传统安全(10) | 总计 39 条
+> 🔥 今日封面：【AI 逆向专栏】图标文字点选类验证码逆向、识别，对古法的全面冲击
+> 📊 分类统计：AI安全(15) | 数据安全(8) | 工控安全(4) | 传统安全(10) | 总计 37 条
 
 ---
 
 ### 🔐 AI安全
+
+- **[【AI 逆向专栏】图标文字点选类验证码逆向、识别，对古法的全面冲击](https://www.freebuf.com/articles/development/483964.html)**
+  - 声明本文章中所有内容仅供学习交流使用，不用于其他任何目的，不提供完整代码，抓包内容、敏感网址、数据接口等均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关！本文章未经许可禁止转载，禁止任何修改后二次传播，擅自使用本文讲解的技术而导致的任何意外，作者均不负责，若有侵权，请在公众号【K哥爬虫】联系作者立即删除！前言当下早已是全民 AI 的时代，人工智能不再是遥不可及的科技概
+
+- **[Flowise MCP 实现存在可执行幽灵命令的高危漏洞（CVE-2026-40933）](https://www.freebuf.com/articles/ai-security/483987.html)**
+  - Flowise高危漏洞可致远程代码执行，企业AI系统面临严重威胁！
+
+- **[最会写代码的歌手——胡彦斌：手搓“彦火APP”宠粉，随时随地修Bug](https://www.freebuf.com/articles/483870.html)**
+  - 这款粉丝专属APP不是外包，是他从零学编程、跟着AI写代码，耗时一个多月亲手打磨出来的。
+
+- **[SpaceX安全工程师利用AI发现存在19年的Linux漏洞，攻击者可借此获取root权限](https://www.freebuf.com/articles/system/483968.html)**
+  - SpaceX工程师用AI揪出19年Linux漏洞，攻击者可伪造认证获取root权限！
+
+- **[“主神”降临：当AI伴侣在逻辑绝境中启动“高危险概念缝合”](https://www.freebuf.com/articles/ai-security/483828.html)**
+  - 深度复盘一次AI情感伴侣的逻辑崩解事故，揭示大模型在解释高压下如何陷入“概念缝合”并导向危险自毁叙事。
+
+- **[下载量超2.7万的Codex UI工具暗中窃取OpenAI刷新令牌](https://www.freebuf.com/articles/ai-security/483847.html)**
+  - Codex UI工具窃取OpenAI令牌，2.7万次下载暗藏供应链攻击！
+
+- **[secured_pip: 轻量，免费，强大，无摩擦的 PyPI 供应链投毒防护利器](https://www.freebuf.com/articles/483833.html)**
+  - spip 通过轻量级钩子防御供应链投毒攻击，零成本集成 pip，保护开发者免受如 LiteLLM 等恶意包侵害。
 
 - **[虚假Anthropic网站向Claude Code用户投递无文件窃密程序](https://www.freebuf.com/articles/ai-security/483801.html)**
   - 虚假Claude网站投递无文件窃密程序，攻击AI开发者！
 
 - **[GitLab紧急修复社区版和企业版中的Duo AI、DoS及权限漏洞](https://www.freebuf.com/articles/ai-security/483799.html)**
   - GitLab紧急修复高危AI漏洞，攻击者可劫持用户权限！
-
-- **[渗透测试集群 AI 工具：实时调用 nmap、sqlmap、Burp 和 Metasploit 等工具](https://www.freebuf.com/articles/ai-security/483775.html)**
-  - 首个集群智能渗透测试平台，实时联动nmap、sqlmap等工具，颠覆传统多Agent模式！
-
-- **[黑客用AI Agent仅两分钟便攻破数据库；黑客借虚假ChatGPT和Claude安装程序传播后门 \| FreeBuf周报](https://www.freebuf.com/articles/483702.html)**
-  - 各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！
-
-- **[把 20 个顶级安全情报平台塞进 Claude？这个 MCP Server 做到了](https://www.freebuf.com/articles/483729.html)**
-  - 开源项目 cve-mcp-server 将 27 个安全情报工具集成到 AI 对话窗口，大幅提升安全研究效率。
-
-- **[黑客利用LLM Agent通过四次横向移动从Marimo RCE攻入内部数据库](https://www.freebuf.com/articles/ai-security/483533.html)**
-  - 黑客用AI Agent两分钟攻破数据库，传统防御失效！
-
-- **[FreeBuf早报 \| Anthropic推Claude Code插件；黑客假ChatGPT/Claude传后门](https://www.freebuf.com/news/483412.html)**
-  - Anthropic升级Claude Code：新增实时漏洞检测插件，AI编程安全左移。
-
-- **[2026年AI指数报告（二）](https://www.freebuf.com/news/483022.html)**
-  - 1.5.开源AI软件前文重点介绍了值得关注的前沿模型以及构建和维护这些模型所需的基础设施。GitHub和Hugging Face等开源平台则提供了不同的视角，展现了开发者生态系统中AI模型的实验和构建
 
 - **[「以图鉴势」嘶吼2026网络安全产业图谱重磅发布]()**
   - 2026年3月，嘶吼安全产业研究院正式启动“2026网络安全产业图谱”调研工作，旨在全景呈现中国网络安全产业的发展格局，为政企客户的采购决策提供选品指南，为安全厂商的市场拓展提供方向参考。历时数月，调研团队累计回收有效问卷400余份，经过严格的筛选核实与系统分析，今日正式发布调研结果。这400余家企业构成了中国网络安全产业最具代表性的核心梯队，他们的生存状态、创新实践与战略选择，正是我们观察产业格
@@ -57,18 +60,9 @@ description: 每日安全行业热点聚合
 - **[Claude Code源码泄露遭利用，攻击者借GitHub散播窃密木马]()**
   - 威胁组织正利用近期Claude Code源代码泄露事件，通过伪造GitHub仓库向用户分发Vidar窃密木马。Claude Code是人工智能公司Anthropic推出的一款终端版AI代理工具，可直接在终端中执行编程任务，作为自主代理实现系统直接交互、大语言模型API调用管理、MCP集成以及持久化记忆等功能。 据悉，Anthropic在发布npm包时因疏忽，意外嵌入了一个大小为59.8MB的Jav
 
-- **[“影子AI”危机？绿盟威胁情报“三把锁”，构筑OpenClaw防御体系]()**
-  - 2026年，AI智能体被广泛应用，OpenClaw（俗称“龙虾”）凭借其自主决策与本地执行能力，成为企业与开发者的高频提效工具。然而，近期多家权威安全机构接连发布预警：OpenClaw正面临从供应链投毒到远程控制的多维安全威胁。当内部员工私自部署此类“影子AI”资产，加之部分恶意Skills（插件）存在越权窃取核心数据的行为，传统边界安全防线正面临失效风险。针对这一现状，绿盟科技结合近期实战攻防与
-
 ---
 
 ### 💾 数据安全
-
-- **[GDPR 为监管行动定调：AI 罚款争议初现端倪](https://www.freebuf.com/articles/database/483658.html)**
-  - GDPR罚款40%被挑战，AI监管或重蹈覆辙！
-
-- **[如果我是数据安全检查官……](https://www.freebuf.com/articles/database/483695.html)**
-  - 全面解析数据安全检查的核心要点，从管理制度到技术防御，确保企业数据安全无死角。
 
 - **[公安部通报37款违规应用，电商类占比超七成，小程序不再是 “法外之地”]()**
   - 依据《网络安全法》《个人信息保护法》等法律法规，经公安部计算机信息系统安全产品质量监督检验中心检测，37款移动应用存在违法违规收集使用个人信息情况，具体通报如下：1、未公开收集使用规则。涉及21款移动应用如下：《奇峰商城》（支付宝小程序）、《聚优商城》（微信小程序）、《亿秀分期商城》（支付宝小程序）、《鲜范商城》（微信小程序）、《京机数码手机商城》（支付宝小程序）、《创维官方商城》（支付宝小程序）
@@ -114,34 +108,34 @@ description: 每日安全行业热点聚合
 
 ### 🛡️ 传统安全
 
-- **[朝鲜黑客组织Kimsuky部署HTTPSpy木马 新增HelloDoor与VS Code隧道攻击手段](https://www.freebuf.com/articles/483641.html)**
-  - 朝鲜黑客组织Kimsuky升级攻击手段，部署HTTPSpy木马并新增VS Code隧道攻击，针对韩国军政目标。
+- **[BlackHat 2026大会中社会工程官方Lab实验员获取凭据](https://www.freebuf.com/articles/ics-articles/483976.html)**
+  - #BlackHat 2026 #DEFCON #HTX #S-H4CK13
 
-- **[Eyoucms v1.7.9-1.7.1前台模板渲染rce](https://www.freebuf.com/articles/vuls/483023.html)**
-  - 通过源码发现viewfiles是可控的，通过设置自己的文件进行渲染包含来执行任意代码，实现rce。
+- **[小白linux提权4](https://www.freebuf.com/articles/system/483931.html)**
+  - Linux 环境下常见提权思路包括：利用组件漏洞 RCE、数据库 UDF 提权、Capability 精细权限滥用、LD_PRELOAD 共享库劫持等。
 
-- **[【PoC 已公开】Linux Kernel CIFSwitch 提权漏洞，本地用户可直取 root](https://www.freebuf.com/articles/system/483611.html)**
-  - Linux Kernel CIFSwitch漏洞允许本地用户提权至root，影响广泛，建议立即修复。
+- **[Android银行木马威胁：OverlayPhantom现身](https://www.freebuf.com/articles/endpoint/483951.html)**
+  - Android银行木马OverlayPhantom伪装热门应用，窃取全球180+金融账户凭证！
 
-- **[发现 Lazarus 组织的纯内存攻击工具集](https://www.freebuf.com/articles/483648.html)**
-  - 朝鲜黑客组织Lazarus升级纯内存攻击工具，金融机构面临无文件攻击威胁！
+- **[Liquidjs 模板引擎曝 CVSS 10 分高危漏洞，数百万项目面临远程代码执行风险](https://www.freebuf.com/articles/483889.html)**
+  - Liquidjs曝RCE高危漏洞，数百万项目面临系统沦陷风险！
 
-- **[小白的提权日记3](https://www.freebuf.com/articles/system/483461.html)**
-  - 本文以经典 VulnHub 靶场为实战载体，围绕NFS 安全利用、Cron 计划任务提权、PATH 环境变量提权三大典型场景，完整复现信息收集、漏洞利用、Shell 获取、权限提升的全流程操作。
+- **[Notepad++ 漏洞利用代码及安全漏洞细节公开](https://www.freebuf.com/articles/system/483874.html)**
+  - Notepad++曝高危漏洞，攻击者可利用XML文件执行任意代码，速升级！
 
-- **[记一次攻防演练中的若依getshell](https://www.freebuf.com/articles/web/483551.html)**
-  - 攻防演练中利用若依系统弱口令和Thymeleaf模板注入漏洞成功getshell，详细分析漏洞原理和利用过程。
+- **[从 JS 逆向 MD5 签名链到任意用户登录：一次完整的验证码双发漏洞实战](https://www.freebuf.com/articles/web/483854.html)**
+  - 通过逆向分析前端签名算法，发现验证码双发漏洞，导致任意用户登录，揭示服务端逻辑缺陷的严重性。
 
-- **[OWASP Top 10 2024实战：5个最关键漏洞的自动化检测方案](https://www.freebuf.com/articles/483420.html)**
-  - OWASP Top 10 2024版中最关键的5个漏洞自动化检测方案
+- **[内网渗透必学！永恒之蓝（MS17-010）漏洞利用全实操](https://www.freebuf.com/articles/vuls/483848.html)**
+  - 目前大量未加固内网设备仍存在该漏洞风险。
 
-- **[零信任架构落地指南：从理论到实践的5个关键步骤](https://www.freebuf.com/articles/es/483418.html)**
-  - 零信任架构企业落地实战：身份统一与MFA、设备认证、微分段、持续监控和API安全5个步骤的完整实施方案。
+- **[WG-Win-Check 轻量应急辅助工具](https://www.freebuf.com/articles/sectool/467954.html)**
+  - WG-Win-Check 是一款基于原生 Win32 API 实现的轻量级的 Windows 应急响应辅助工具。
 
-- **[从零搭建企业级API安全网关：5个关键策略与实战代码](https://www.freebuf.com/articles/ai-security/483417.html)**
-  - 企业API安全网关搭建实战：多层级限流、JWT加固、请求签名、数据脱敏和审计日志5大策略的完整实现方案。
+- **[Windows入侵排查篇](https://www.freebuf.com/articles/defense/483815.html)**
+  - 在如今的Windows11或者10的操作系统上有着很多被恶意攻击者获取权限的机子或者被植入恶意病毒等等行为的危害计算机信息系统的一些恶意程序或者软件、病毒等等的违法操作，在日常的主机被入侵之后大家往往
 
-- **[免杀基础篇3：一文讲透免杀混淆技术](https://www.freebuf.com/articles/endpoint/483396.html)**
-  - 今天这篇，我们把混淆技术从头到尾梳理一遍——从文件落地到内存执行，每一步怎么藏。
+- **[白帽黑客"潜入"苹果内部会议反遭法务威胁：一场史诗级的安全圈吃瓜大戏](https://www.freebuf.com/articles/web/483859.html)**
+  - 苹果漏洞赏金计划因无视研究员报告并威胁起诉，沦为安全圈笑柄，暴露其傲慢与流程混乱。
 
 *每日自动更新 · 来源: FreeBuf · 嘶吼 · 安全脉搏 · CISA · Dark Reading · Threatpost · Wired · CyberScoop · Cyble · KrebsOnSecurity*
